@@ -1,6 +1,6 @@
 # Network Performance And Dimension simulators
 
-This is the 1st simulator of 4 developed at Universidade de Aveiro at the course [47064 - Network and Performance and Dimension](https://www.ua.pt/uc/2306) in which is is addressed the issue of resource management in network systems and introduce the main techniques of performance analysis and design (stochastic modeling and simulation of discrete events).
+This is the 1st simulator of 4 developed at Universidade de Aveiro at the course [47064 - Network Performance and Dimension](https://www.ua.pt/uc/2306) in which is is addressed the issue of resource management in network systems and introduce the main techniques of performance analysis and design (stochastic modeling and simulation of discrete events).
 
 The available developed simulator tool set is the following:
 
