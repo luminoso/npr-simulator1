@@ -30,7 +30,7 @@ Both cases are continuous time systems (i.e., the list of connected nodes varies
 
 ### 1.1 Mesh connectivity in ad hoc networks
 
-In this simulation we created random nodes that move in a 2d area and that connect if within a *W* distance. We calculate the average connection ratio of all the nodes. 
+In this simulation we created random nodes that move in a 2D area and that connect if within a *W* distance. We calculate the average connection ratio of all the nodes. 
 
 There are the following configuration parameters:
 
@@ -40,7 +40,7 @@ There are the following configuration parameters:
 | W        | Radio range (in meters)                         |
 | S        | Maximum node speed                              |
 | Δ        | Time frame in seconds of each instant simulator |
-| T        | Maximum simulation instants    |
+| T        | Maximum simulation instants                     |
 
 Total simulated time is T x Δ
 
@@ -52,7 +52,7 @@ When running *simulation_mesh.m* the program outputs a visualization o the nodes
 	<img src="https://github.com/luminoso/npr-simulator1/raw/master/doc/simulator1.gif" alt="Mesh simualtor" >
 </p>
 
-When the simulation ends a graph of the average connectivity over time, average connectivity and the global aveage connectvity.
+When the simulation ends a graph of the average connectivity over time, average connectivity and the global average connectivity.
 
 
 ### 1.2 Internet mesh connectivity with access points
